@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Simran Kaur!
+# 👋 Hi, I'm Simranjeet Kaur!
 
 🎓 BCA Student | 💻 Aspiring Developer | 🤖 AI & Computer Vision Enthusiast
 
